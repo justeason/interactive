@@ -1,0 +1,25 @@
+body {
+	background: lightgray;
+color: black;
+}
+
+.container {
+	width: 600px;
+	padding: 10px;
+	margin: 0 auto;
+	border: 5px dashed gold;
+	background: lightblue;
+}
+
+h4{
+	color: darkblue;
+}
+
+h1 {
+	color: darkorange;
+
+}
+
+p {
+	border: 2px gold;
+}
