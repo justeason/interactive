@@ -1,0 +1,14 @@
+body {
+	font: 
+	border-radius: 3px;
+}
+
+* {
+	box-sizing: border-box;
+	background: #ccffcc;
+}
+
+h1 {
+	border-left: #cc33ff 5px
+	background: #77b300;
+}
