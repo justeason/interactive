@@ -1,14 +1,119 @@
-body {
-	font: 
-	border-radius: 3px;
+.tape {
+	border: solid lightblue 5px;
+	height: 100px;
+	width: 200px;
+	background: pink;
+	float: left;
+	position: fixed;
+	top: 430px;
+	left:240px
+}
+.disorder {
+	border: solid lightblue 5px;
+	height: 100px;
+	width: 200px;
+	background: pink;
+	float: right;
+	position: fixed;
+	top: 430px;
+	left:540px;
+}
+.surgery {
+	border: solid lightblue 5px;
+	height: 100px;
+	width: 200px;
+	background: pink;
+	float: left;
+	position: fixed;
+	top: 430px;
+	left: 840px;
+}
+.night {
+	border: solid lightblue 5px;
+	height: 100px;
+	width: 200px;
+	background: pink;
+	float: left;
+	position: fixed;
+	top: 570px;
+	left:240px;
+}
+.check {
+	border: solid lightblue 5px;
+	height: 100px;
+	width: 200px;
+	background: pink;
+	float: left;
+	position: fixed;
+	top: 570px;
+	left:540px;
+}
+.window{
+	border: solid lightblue 5px;
+	height: 100px;
+	width: 200px;
+	background: pink;
+	float: left;
+	position: fixed;
+	top: 570px;
+	left:840px;
+}
+.labyrinth{
+	border: solid lightblue 5px;
+	height: 100px;
+	width: 200px;
+	background: pink;
+	float: left;
+	position: fixed;
+	top: 850px;
+	left:540px;
+}
+.life{
+	border: solid lightblue 5px;
+	height: 100px;
+	width: 200px;
+	background: pink;
+	float: left;
+	position: fixed;
+	top: 710px;
+	left:240px;
+}
+.sketches{
+	border: solid lightblue 5px;
+	height: 100px;
+	width: 200px;
+	background: pink;
+	float: left;
+	position: fixed;
+	top: 710px;
+	left:540px;
+}
+.chinchilla{
+	border: solid lightblue 5px;
+	height: 100px;
+	width: 200px;
+	background: pink;
+	float: left;
+	position: fixed;
+	top: 710px;
+	left:840px;
 }
 
 * {
+	background: silver;
 	box-sizing: border-box;
-	background: #ccffcc;
 }
 
 h1 {
-	border-left: #cc33ff 5px
-	background: #77b300;
+	border: inset gold 10px;
+	background: #ffcccc;
+	margin-right: 30px;
+	padding: 10px;
+	font: ;
+}
+
+body {
+	border: ridge pink 20px;
+	margin: 100px;
+	padding: 60px;
 }
