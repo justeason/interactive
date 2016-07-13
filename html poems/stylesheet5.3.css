@@ -1,0 +1,37 @@
+.first {
+	letter-spacing: 8px;
+	background: #ccffff;
+}
+
+.second {
+	letter-spacing: 5px;
+	background: #99ffff;
+
+}
+
+.third {
+	letter-spacing: 2px;
+	background: #66ffff;
+}
+
+.fourth {
+	letter-spacing: -1px;
+	background: #33ffff;
+}
+
+.fifth {
+	letter-spacing: -2.2px;
+	background: #00ffff;
+}
+
+div {
+	border: dotted 25px #5cd65c;
+}
+
+body {
+	background: #ffb3c6;
+	padding: 200px;
+} 
+h3 {
+	background: #a6da0b;
+}

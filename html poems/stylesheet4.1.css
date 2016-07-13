@@ -1,0 +1,18 @@
+h1 {
+	letter-spacing:  14px;
+	text-transform: uppercase;
+	border-bottom: dotted green 4px;
+
+}
+
+* {
+	margin: 160px;
+	background: #ccfff5;
+}
+
+body {
+	border: dotted 40px yellow;
+}
+
+p {background: #86b300
+}

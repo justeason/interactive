@@ -1,0 +1,43 @@
+.first {
+	background: #e6ffb3;
+}
+
+.second {
+	background: #ccff66;
+
+}
+
+.third {
+	background: #b3ff1a;
+}
+
+.fourth {
+	background: #88cc00;
+}
+
+.fifth {
+	background: #558000;
+}
+
+body {
+	background: #bff985;
+	padding: 200px;
+	color: #3d5c5c;
+}
+
+sup {
+	color: #293d3d;
+}
+
+sub {
+	color: #527a7a;
+}
+
+h3 {
+	color: #f2ffe6;
+}
+
+body {
+	border: dotted #89c059 7px;
+	padding: 20px;
+}

@@ -1,0 +1,13 @@
+body {
+	background: #ffb366;
+	padding: 100px;
+	border-top: dotted skyblue 200px;
+}
+
+h3 {
+	color: #ffff00;
+}
+
+p {
+	border-bottom: dotted #4dff4d 8px;
+}

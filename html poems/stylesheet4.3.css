@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+	background: #ffcccc;
+}
+
+.head {
+	background: #e9e2e2;
+}
+
+.first {
+	line-height: 150%;
+	letter-spacing: 10px;
+	background: #ecdfdf;
+}
+
+.second {line-height: 125%;
+	letter-spacing: 8px;
+	background: #eedddd;
+
+}
+
+.third {
+	line-height: 100%;
+	letter-spacing: 3px;
+	background: #f1dada;
+}
+
+.fourth {
+	line-height: 75%;
+	letter-spacing: 0px;
+	background: #f4d7d7;
+}
+
+.fifth {
+	line-height: 150%;
+	letter-spacing: -2.2px;
+	background: #f6d5d5;
+}

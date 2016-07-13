@@ -1,0 +1,111 @@
+body {
+	text-align: center;
+	background: #b5e3e3;
+}
+
+.h3 {
+	line-height: 400%;
+	letter-spacing: 10px;
+	background: #9cc9be;
+}
+
+.first {
+	line-height: 300%;
+	letter-spacing: 20px;
+	background: #94d1c2;
+}
+
+.first2 {
+	line-height: 250%;
+	letter-spacing: 15px;
+	background: #8cd9c6;
+}
+
+.first3 {
+	line-height: 200%;
+	letter-spacing: 16px;
+	background: #85e0c9;
+}
+
+.first4 {
+	line-height: 160%;
+	letter-spacing: 10px;
+	background: #7de8cd;
+}
+
+.second {line-height: 120%;
+	letter-spacing: 4px;
+	background: #7de8cd;
+}
+
+.second2 {
+	line-height: 90%;
+	letter-spacing: 24px;
+	background: #75f0d1;
+}
+
+.second3 {
+	line-height: 70%;
+	letter-spacing: 1px;
+	background: #6ef7d5;
+}
+
+.second4{
+	line-height: 60%;
+	letter-spacing: -1px;
+	background: #66ffd9;
+}
+
+.third {
+	line-height: 60%;
+	letter-spacing: -1px;
+	background: #66ffd9;
+}
+
+.third2 {
+	line-height: 70%;
+	letter-spacing: 1px;
+	background: #6ef7d5;
+}
+
+.third3 {
+	line-height: 90%;
+	letter-spacing: 3px;
+	background: #75f0d1;
+}
+
+.fourth {
+	line-height: 120%;
+	letter-spacing: 7px;
+	background: #7de8cd;
+}
+
+.fourth2 {
+	line-height: 150%;
+	letter-spacing: 10px;
+	background: #85e0c9;
+}
+
+.fourth3{
+	line-height: 190%;
+	letter-spacing: 17px;
+	background: #8cd9c6;
+}
+
+.fourth4{
+	line-height: 230%;
+	letter-spacing: 25px;
+	background: #94d1c2;
+}
+
+.fourth5 {
+	line-height: 270%;
+	letter-spacing: 14px;
+	background: #9cc9be;
+}
+
+.fifth {
+	line-height: 400%;
+	letter-spacing: 17px;
+	background: #a3c2ba;
+}

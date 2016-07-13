@@ -1,0 +1,34 @@
+.first {
+	line-height: 30%;
+	letter-spacing: 8px;
+	background: #e6ffb3;
+}
+
+.second {line-height: 50%;
+	letter-spacing: 6px;
+	background: #ccff66;
+
+}
+
+.third {
+	line-height: 70%;
+	letter-spacing: 3px;
+	background: #b3ff1a;
+}
+
+.fourth {
+	line-height: 90%;
+	letter-spacing: -1.3px;
+	background: #88cc00;
+}
+
+.fifth {
+	line-height: 150%;
+	letter-spacing: -2.2px;
+	background: #558000;
+}
+
+body {
+	background: #ffb366;
+	padding: 200px;
+}

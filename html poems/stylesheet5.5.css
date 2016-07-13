@@ -1,0 +1,8 @@
+p {text-align: center;
+	text-transform: lowercase;
+	letter-spacing: 11px;
+	line-height: 250%;
+	border: solid black 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
