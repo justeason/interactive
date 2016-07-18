@@ -1,7 +1,8 @@
-body {
+.first {
 	background: #ffb366;
 	padding: 100px;
-	border-top: dotted skyblue 200px;
+	border-top: dashed skyblue 100px;
+	margin: #ffb366 solid 100px;
 }
 
 h3 {

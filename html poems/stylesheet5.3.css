@@ -24,11 +24,11 @@
 	background: #00ffff;
 }
 
-div {
-	border: dotted 25px #5cd65c;
+.paragraph {
+	border: dashed 25px #5cd65c;
 }
 
-body {
+.first1 {
 	background: #ffb3c6;
 	padding: 200px;
 } 

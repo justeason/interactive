@@ -5,14 +5,12 @@ h1 {
 
 }
 
-* {
-	margin: 160px;
+.first {
+	margin: 85px;
 	background: #ccfff5;
 }
 
-body {
-	border: dotted 40px yellow;
+.first {
+	border: dashed 40px yellow;
 }
 
-p {background: #86b300
-}

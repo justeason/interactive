@@ -1,4 +1,4 @@
-.first {
+.first1 {
 	background: #e6ffb3;
 }
 
@@ -19,7 +19,7 @@
 	background: #558000;
 }
 
-body {
+.first {
 	background: #bff985;
 	padding: 200px;
 	color: #3d5c5c;
@@ -37,7 +37,7 @@ h3 {
 	color: #f2ffe6;
 }
 
-body {
+.first {
 	border: dotted #89c059 7px;
 	padding: 20px;
 }

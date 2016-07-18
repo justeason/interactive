@@ -1,4 +1,4 @@
-body {
+.first {
 	text-align: center;
 	background: #b5e3e3;
 }
@@ -9,7 +9,7 @@ body {
 	background: #9cc9be;
 }
 
-.first {
+.first1 {
 	line-height: 300%;
 	letter-spacing: 20px;
 	background: #94d1c2;
