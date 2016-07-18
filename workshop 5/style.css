@@ -1,0 +1,77 @@
+.one {
+background-color: #000000;
+color: white;
+}
+
+.two {
+background-color: #404040;
+color: white;
+}
+
+.three {
+background-color: #808080;
+color: black;
+}
+
+.four {
+background-color: #bfbfbf;
+color: black;
+}
+
+.five {
+background-color: #ffffff;
+color: black;
+}
+
+@media screen and (max-width: 1024px){
+	body{
+		background: #ffffff
+	}
+	.sky {
+		background: url('images/sky12am.jpg');
+	}
+}
+
+@media screen and (max-width: 768px){
+	body{
+		background: #bfbfbf
+	}
+	.sky {
+		background: url('images/sky9.jpg');
+	}
+}
+}
+
+@media screen and (max-width: 600px){
+	body{
+		background: #808080
+	}
+	.sky {
+		background: url('images/sky6.jpg');
+	}
+}
+}
+
+@media screen and (max-width: 480px){
+	body{
+		background: #404040
+	}
+	.sky {
+		background: url('images/sky3.jpg');
+	}
+}
+}
+
+@media screen and (max-width: 320px){
+	body{
+		background: #000000
+	}
+	.sky {
+		background: url('images/sky12pm.jpg');
+	}
+}
+}
+
+p {
+	text-align: center;
+}
