@@ -1,0 +1,123 @@
+body {
+	background: black;
+	 font-family: "Arial Rounded MT Bold";
+	 text-align: center;
+}
+
+
+/* main screen page */
+.outercircle {
+  width: 60vw;
+  height: 60vw;
+  border-radius: 80%;
+  margin: 18% auto 0;
+  background: rgb(71,71,71);
+  border: solid 7px rgb(249,196,110);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.innercircle {
+  width: 30vw;
+  height: 30vw;
+  border-radius: 80%;
+  margin: 0 auto;
+  background: rgb(249,196,110);
+}
+
+.text-bubbles{
+	/*text-align: center;*/
+	display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14vw;
+  margin: 10%;
+  color: rgb(249,196,110);
+}
+
+.start{
+	/*text-align: center;*/
+	display: flex;
+  align-items: center;
+  justify-content: center;
+   font-size: 14vw;
+   color: rgb(249,196,110);
+   background: rgb(71,71,71);
+   border-radius: 4vw;
+   display: inline-block;
+   padding: 3vw 6vw;
+   border: 7px solid rgb(249,196,110);
+   margin-bottom: 10%;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* add bubble page */
+.plus{
+  font-size: 15vw;
+  margin: 7%;
+  text-align: right;
+  margin-bottom: -6%;
+  color: rgb(249,196,110);
+}
+
+.addbubble{
+   font-size: 14vw;
+  margin: 12%;
+  color: rgb(249,196,110);
+  margin-top: -8%;
+}
+
+.bubble-name{
+font-size: 6vw;
+  margin: 15%;
+  margin-bottom: 8%;
+  color: rgb(249,196,110);
+  text-align: left;
+}
+
+.blank1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(249,196,110);
+   background: rgb(71,71,71);
+   border-radius: 2vw;
+   display: inline-block;
+   padding: 5vw 35vw;
+   border: 3px solid rgb(249,196,110);
+}
+
+.start-time{
+  font-size: 6vw;
+  margin-left: 15%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  color: rgb(249,196,110);
+  text-align: left;
+}
+
+.end-time{
+  font-size: 6vw;
+  margin: 15%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  color: rgb(249,196,110);
+  text-align: left;
+}
+
+.blank2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(249,196,110);
+   background: rgb(71,71,71);
+   border-radius: 2vw;
+   display: inline-block;
+   padding: 5vw 35vw;
+   border: 3px solid rgb(249,196,110);
+   margin-bottom: 10%;
+}
