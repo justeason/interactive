@@ -228,9 +228,10 @@ font-size: 6vw;
 }
 
 .add{
+  position: absolute;
   font-size: 15vw;
   margin-left: 4%;
   text-align: left;
-  margin-top: 157%;
+  margin-top: 145%;
   color: rgb(249,196,110);
 }
