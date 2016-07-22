@@ -197,6 +197,28 @@ font-size: 6vw;
   right: 26%;
 }
 
+.circle-yellow-out {
+  width: 25vw;
+  height: 25vw;
+  border-radius: 50%;
+  margin: 5% auto 0;
+  background: rgb(71,71,71);
+  position: fixed;
+  top: 5%;
+  left: 15%;
+}
+
+.circle-yellow-in {
+  width: 6vw;
+  height: 6vw;
+  border-radius: 80%;
+  margin: 0 auto;
+  background: rgb(249,196,110);
+  position: absolute;
+  top: 38%;
+  right: 37%;
+}
+
 .circle-dinner-out {
   width: 30vw;
   height: 30vw;
@@ -233,5 +255,14 @@ font-size: 6vw;
   margin-left: 4%;
   text-align: left;
   margin-top: 130%;
+  color: rgb(249,196,110);
+}
+
+.link{
+   position: absolute;
+  font-size: 3vw;
+  margin-left: 76%;
+  text-align: right;
+  margin-top: 131%;
   color: rgb(249,196,110);
 }
