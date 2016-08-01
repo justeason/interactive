@@ -1,0 +1,46 @@
+
+
+/* every page*/
+.top-name{
+		text-align: center;
+		font-size: 200%;
+	}
+a{
+text-decoration: none;
+color: black;
+}
+
+.top-third{
+	background: rgb(134,134,134);
+	color: rgb(250,250,250);
+	text-align: center;
+}
+
+.top-second1:hover, .top-second2:hover, .top-second3:hover, .top-second4:hover{
+	background: black;
+	color: white;
+}
+
+.top-third1:hover, .top-third2:hover, .top-third3:hover{
+	background: white;
+	color: black;
+}
+
+.contact-info{
+	text-align: center;
+	margin: 10%;
+}
+
+.contact-info-each{
+	margin: 3%;
+}
+
+.left{
+	display: block;
+	margin: 10%;
+	border: solid red 5px;
+}
+
+.left1{
+	
+}
