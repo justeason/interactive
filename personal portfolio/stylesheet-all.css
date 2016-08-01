@@ -1,4 +1,14 @@
+.main-pic{
 
+}
+
+body{
+	font-family: 'Titillium Web', sans-serif;
+}
+
+* {
+	box-sizing: border-box;
+}
 
 /* every page*/
 .top-name{
@@ -10,10 +20,15 @@ text-decoration: none;
 color: black;
 }
 
+.top-second{
+	padding: 7px;
+}
+
 .top-third{
 	background: rgb(134,134,134);
 	color: rgb(250,250,250);
 	text-align: center;
+	padding: 7px;
 }
 
 .top-second1:hover, .top-second2:hover, .top-second3:hover, .top-second4:hover{
@@ -38,9 +53,14 @@ color: black;
 .left{
 	display: block;
 	margin: 10%;
-	border: solid red 5px;
 }
 
 .left1{
-	
+	float: left;
+	padding: 12px;
+	width: 33.333%;
+}
+
+img {
+	max-width: 100%;
 }
